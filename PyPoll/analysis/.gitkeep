@@ -1,0 +1,7 @@
+# Ignore system directories and logs
+AppData/
+Local/
+History/
+INetCache/
+*.log
+*.tmp
