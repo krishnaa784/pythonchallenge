@@ -1,3 +1,0 @@
-# pythonchallenge
-# pythonchallenge
-# pythonchallenge
