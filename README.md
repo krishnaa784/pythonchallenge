@@ -42,12 +42,9 @@ The election analysis can be done by running a Python script (e.g., election_ana
 Files in This Project
 budget_data.csv: Contains information about financial transactions.
 election_data.csv: Contains election voting results for analysis.
-Contact Information
-If you have any questions or feedback, feel free to reach out to me at:
-example@example.com
 
-markdown
-Copy code
+
+
 
 ### Key Sections in This README:
 
